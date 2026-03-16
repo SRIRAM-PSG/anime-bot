@@ -1,4 +1,4 @@
 python-telegram-bot
 thefuzz
 python-levenshtein
-duckduckgo-search
+ddgs
